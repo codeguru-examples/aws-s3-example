@@ -1,0 +1,22 @@
+1) Maven basic config
+2) Maven central repository
+    a) Nexus
+    b) artifactory
+
+
+Steps:
+1. Create a sample project using mvn cli
+2) packaged
+3) executed via comand line
+
+Imported into IntelliJ
+1) execute 
+2) debug project
+	break points
+	debug 
+3) run unit tests
+
+Configured aws cli with aws reds
+1. Configure java program with sdk 
+2. S3 client 
+3. export like environment variable
